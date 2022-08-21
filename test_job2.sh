@@ -1,3 +1,3 @@
 #! /bin.bash
-x="Kaushik";
+x="Kaushik Kumar and Naian Rajput"
 echo $x;
